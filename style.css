@@ -1,0 +1,12 @@
+.body_background 
+{
+    background-image: url("https://ak.picdn.net/shutterstock/videos/1034379173/thumb/1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(252, 249, 248); 
+    border-style:ridge;
+}
